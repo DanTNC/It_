@@ -67,5 +67,4 @@ ikea就是`宜家`，目前在台南好想工作室擔任『神隱饅頭』(ment
 - It 也讓網路紅人可以更加方便管理所有平台，使他們更容易網羅各個平台的使用者!!
 
 ### Slogan
-- It
- * We are the one.
+- It \- We are the one.
