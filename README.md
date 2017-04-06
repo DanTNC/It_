@@ -10,7 +10,18 @@
 
 ### Log
 - 0405: wireframe [Zeplin](https://zpl.io/vjfQP)
-![wireframe IMG](doc/img/About Page_wireframe.png)
+- 0406: basic Design [style](https://scene.zeplin.io/project/58e4bbf0bf45ca9544c47b25)
+
+<img src="https://cdn.zeplin.io/58e4bbf0bf45ca9544c47b25/screens/E4A3C98A-E199-478D-9DF0-C86A42F33A79.png" width="120">
+
+- 字體：[NOTO Sans](https://fonts.google.com/earlyaccess)
+- [Guidelines for Using Noto](https://www.google.com/get/noto/help/guidelines/)
+
+```css
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+font-family: 'Noto Sans TC', Verdana, Helvetica, 
+Arial, sans-serif;
+```
 
 ### 成員
 
